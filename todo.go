@@ -129,7 +129,7 @@ func (t *Todos) Print() {
 func (t *Todos) CountPending() int {
 	total := 0
 	for _,item := range *t {
-		if item.Done {
+		if !item.Done {
 			total++
 		}
 	}
