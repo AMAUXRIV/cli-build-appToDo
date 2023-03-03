@@ -4,3 +4,14 @@ A CLI todo app using Golang is an application that functions as a task managemen
 This app usually has several features such as adding new tasks, displaying a list of tasks that have been added, editing or deleting tasks, and marking tasks that have been completed. The app can also store task data in file format, so users can view the list of tasks previously inputted.
 
 A CLI todo app using Golang is often used by developers and programmers as a tool to organize work and simplify task management. Furthermore, because this app is run through the command line interface, users can use it without having to open another application, making it more efficient and practical
+# ========================================================
+![image](https://user-images.githubusercontent.com/97670164/222607417-f282ace6-1288-495b-bc0f-36beaae70821.png)
+
+  -add
+        add a new Todo
+  -del int
+        Delete f*king problem
+  -finish int
+        mark a todo completed
+  -ls
+        List F*king Problem
